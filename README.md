@@ -6,5 +6,5 @@ Udagram is a simple cloud application developed alongside the Udacity Cloud Engi
 ### project submission requirements
 
 1.  link to endpoint URL for a running elastic beanstalk deployment [here](http://udagram-dev-mo-dev.us-east-1.elasticbeanstalk.com/)
-2. link to elastic beanstalk deployment screenshot [here](http://udagram-dev-mo-dev.us-east-1.elasticbeanstalk.com/)
+2. link to elastic beanstalk deployment screenshot [here](https://github.com/MoKhaled3003/Udagram-Cloud-Project/blob/master/deployment_screenshots/EB%20ScreenShot.PNG)
 
